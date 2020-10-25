@@ -2,8 +2,7 @@
 <h3 align="center">Eng @ <a href=https://candor.co target="blank">Candor</a></h3>
 <br />
 <p>
-  <br />
-  <img src="https://www.wpclipart.com/famous/warriors/Napoleon/Napoleon_and_the_Sphinx.png" width="400" align="right">
+  <img src="https://www.wpclipart.com/famous/warriors/Napoleon/Napoleon_and_the_Sphinx.png" width="400" align="right" style="margin-top: 5px">
   
 - 👨🏼‍💻 I'm a 19 year-old software engineer and tech enthusiast. Here's my <a href=https://www.colinbethea.com/resume target="blank"> resume so far.</a>
 

@@ -10,5 +10,7 @@
   
 - 👨🏼‍💻 I'm a 19 year-old software engineer and tech enthusiast <a href=https://www.colinbethea.com/resume target="blank"> resume so far.</a>
 
-- 💬 Ask me about engineering, product design, primate biology, and chess.
+- 💬 Feel free to ask me about engineering, product design, primate biology, chess, or deciding to not go to college.
+
+- 🛠 I'm always working on a side project or hobby on the weekends; if you're in the SF Bay-Area and want a coffee chat hit me up.
 </p>

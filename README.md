@@ -1,5 +1,6 @@
 <h1 align="center">Hey, it's Colin 👋</h1>
 <h3 align="center">Eng @ <a href=https://candor.co target="blank">Candor</a></h3>
+<br />
 <p>
   <img src="https://www.wpclipart.com/famous/warriors/Napoleon/Napoleon_and_the_Sphinx.png" width="400" align="right">
   

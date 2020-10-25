@@ -8,7 +8,7 @@
 <p>
   <img src="https://www.wpclipart.com/famous/warriors/Napoleon/Napoleon_and_the_Sphinx.png" width="400" align="right">
   
-- 👨🏼‍💻 I'm a 19 year-old software engineer and tech enthusiast <a href=https://www.colinbethea.com/resume target="blank"> resume so far.</a>
+- 👨🏼‍💻 I'm a 19 year-old software engineer and tech enthusiast. Here's my <a href=https://www.colinbethea.com/resume target="blank"> resume so far.</a>
 
 - 💬 Feel free to ask me about engineering, product design, primate biology, chess, or deciding to not go to college.
 

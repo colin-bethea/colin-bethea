@@ -10,5 +10,5 @@
 
 - 🛠 I'm always working on a side project or hobby on the weekends; if you're in the SF Bay-Area and want a coffee chat hit me up.
 
-- 🛠 Before joining Candor, I built <a href=https://www.athenify.com target="blank">Athenify</a> (acquired) and <a href=https://www.joinstratagem.com target="blank">Stratagem</a>, did research work for a VC firm, and obsessed too much over video games.
+- 🛠 Before joining Candor, I built <a href=https://www.athenify.com target="blank">Athenify</a> and <a href=https://www.joinstratagem.com target="blank">Stratagem</a>, did research work for a VC firm, and obsessed too much over video games.
 </p>

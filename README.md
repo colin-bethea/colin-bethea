@@ -4,7 +4,7 @@
 <p>
   <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2552&q=80" width="400" align="right">
   
-- 👨🏼‍💻 I'm a software engineer and tech enthusiast. Here's my <a href=https://www.colinbethea.com/resume target="blank"> resume so far.</a>
+- 👨🏼‍💻 I'm a software engineer and technical lead.
 
 - 💬 Feel free to ask me about engineering, product design, monkeys, amateur chess, or deciding to not go to college.
 

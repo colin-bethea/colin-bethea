@@ -1,4 +1,4 @@
-Hey, I'm Colin and I type for a living. 
+### Hey, I'm Colin and I type for a living. 
 
 Resources for stalking me on the web:
 - I work at a [super secret big tech company](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
